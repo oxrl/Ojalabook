@@ -11,8 +11,6 @@ class StatusesController < ApplicationController
     end
   end
 
-  end
-
   # GET /statuses/1
   # GET /statuses/1.json
   def show
